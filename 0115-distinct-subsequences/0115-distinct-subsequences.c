@@ -1,12 +1,9 @@
-#include <string.h>
-#include <stdlib.h>
-
-// Helper function for memoized recursion
+//recursion function 
 int distinctHelper(int i, int j, char *s, char *t, int m, int n, int **memo) {
-    if (j == n) return 1; // If `t` is fully matched
-    if (i == m) return 0; // If `s` is exhausted without fully matching `t`
+    if (j == n) return 1; // size of t = 0
+    if (i == m) return 0; // size of s = 0
 
-    if (memo[i][j] != -1) return memo[i][j]; // Return cached result if available
+    if (memo[i][j] != -1) return memo[i][j]; //checks if it is already calculated
 
     if (s[i] == t[j]) {
         memo[i][j] = distinctHelper(i + 1, j + 1, s, t, m, n, memo) +
