@@ -1,40 +1,40 @@
 //recursion function 
-int distinctHelper(int i, int j, char *s, char *t, int m, int n, int **memo) {
+int distinctHelper(int i, int j, char *s, char *t, int m, int n, int **arr) {
     if (j == n) return 1; // size of t = 0
     if (i == m) return 0; // size of s = 0
 
-    if (memo[i][j] != -1) return memo[i][j]; //checks if it is already calculated
+    if (arr[i][j] != -1) return arr[i][j]; //checks if it is already calculated
 
     if (s[i] == t[j]) {
-        memo[i][j] = distinctHelper(i + 1, j + 1, s, t, m, n, memo) +
-                     distinctHelper(i + 1, j, s, t, m, n, memo);
+        arr[i][j] = distinctHelper(i + 1, j + 1, s, t, m, n, arr) +
+                     distinctHelper(i + 1, j, s, t, m, n, arr);
     } else {
-        memo[i][j] = distinctHelper(i + 1, j, s, t, m, n, memo);
+        arr[i][j] = distinctHelper(i + 1, j, s, t, m, n, arr);
     }
 
-    return memo[i][j];
+    return arr[i][j];
 }
 
 int numDistinct(char *s, char *t) {
     int m = strlen(s);
     int n = strlen(t);
 
-    // Create a memoization table
-    int **memo = (int **)malloc(m * sizeof(int *));
+    // Create a array table
+    int **arr = (int **)malloc(m * sizeof(int *));
     for (int i = 0; i < m; i++) {
-        memo[i] = (int *)malloc(n * sizeof(int));
+        arr[i] = (int *)malloc(n * sizeof(int));
         for (int j = 0; j < n; j++) {
-            memo[i][j] = -1; // Initialize with -1
+            arr[i][j] = -1; // Initialize with -1
         }
     }
 
-    int result = distinctHelper(0, 0, s, t, m, n, memo);
+    int result = distinctHelper(0, 0, s, t, m, n, arr);
 
-    // Free memoization table
+    // Free 
     for (int i = 0; i < m; i++) {
-        free(memo[i]);
+        free(arr[i]);
     }
-    free(memo);
+    free(arr);
 
     return result;
 }
