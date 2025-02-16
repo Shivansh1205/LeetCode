@@ -4,7 +4,7 @@ class Solution {
         int n = s.length();
         for(int i =0; i<n; i++){
             char c = s.charAt(i);
-            if (Character.isLetterOrDigit(c)) {
+            if((c>='A'&&c<='Z')||(c>='a'&&c<='z')||(c>='0' && c<='9')) {
                 t.append(Character.toLowerCase(c));
             }
         }
