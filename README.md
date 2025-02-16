@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Shivansh1205/LeetCode/tree/master/0115-distinct-subsequences) |
+| [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,8 +21,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Shivansh1205/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Shivansh1205/LeetCode/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shivansh1205/LeetCode/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
