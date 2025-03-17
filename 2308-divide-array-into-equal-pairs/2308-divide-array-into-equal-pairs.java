@@ -1,12 +1,12 @@
 class Solution {
     public boolean divideArray(int[] nums) {
         int n = nums.length;
-        HashMap<Integer,Integer> arr = new HashMap<>();
+        int [] arr = new int[501];
         for(int i =0;i<n;i++){
-            arr.put(nums[i], arr.getOrDefault(nums[i], 0) + 1);
+            arr[nums[i]]++;
         }
-        for(int a : arr.keySet()){
-            if(arr.get(a)%2!=0){
+        for(int a : arr){
+            if(a%2!=0){
                 return false;
             }
         }
