@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shivansh1205/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shivansh1205/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shivansh1205/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Shivansh1205/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shivansh1205/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shivansh1205/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Shivansh1205/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Shivansh1205/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shivansh1205/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Shivansh1205/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivansh1205/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivansh1205/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Shivansh1205/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Shivansh1205/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Shivansh1205/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting
