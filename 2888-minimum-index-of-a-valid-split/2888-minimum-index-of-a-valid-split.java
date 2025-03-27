@@ -1,19 +1,36 @@
 class Solution {
-  public int minimumIndex(List<Integer> nums) {
-    final int n = nums.size();
-    Map<Integer, Integer> count1 = new HashMap<>();
-    Map<Integer, Integer> count2 = new HashMap<>();
+    public int minimumIndex(List<Integer> nums) {
+        int n=nums.size();
+        int dominant=-1;
+        int cnt=0;
 
-    for (final int num : nums)
-      count2.merge(num, 1, Integer::sum);
-
-    for (int i = 0; i < n; ++i) {
-      final int freq1 = count1.merge(nums.get(i), 1, Integer::sum);
-      final int freq2 = count2.merge(nums.get(i), -1, Integer::sum);
-      if (freq1 * 2 > i + 1 && freq2 * 2 > n - 1 - i)
-        return i;
+        for(int i=0;i<n;i++){
+            if(cnt==0){
+                dominant=nums.get(i);
+                cnt++;
+            }
+            else if(nums.get(i)==dominant){
+                cnt++;
+            }
+            else{
+                cnt--;
+            }
+        }
+        int maxC=0;
+        for(int i=0;i<n;i++){
+            if(nums.get(i)==dominant){
+                maxC++;
+            }
+        }
+        int c=0;
+        for(int i=0;i<n;i++){
+            if(nums.get(i)==dominant){
+                c++;
+            }
+            if(c*2>(i+1) && (maxC-c)*2>(n-i-1)){
+                return i;
+            }
+        }
+        return -1;
     }
-
-    return -1;
-  }
 }
