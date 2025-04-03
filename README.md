@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivansh1205/LeetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Shivansh1205/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Shivansh1205/LeetCode/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shivansh1205/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shivansh1205/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shivansh1205/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shivansh1205/LeetCode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Shivansh1205/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivansh1205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shivansh1205/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shivansh1205/LeetCode/tree/master/0169-majority-element) |
