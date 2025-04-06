@@ -3,9 +3,7 @@ class Solution {
         int n = nums.length;
         int low = 0, high = n-1;
         int mid = 0;
-        if(n == 1 && target == nums[0]){
-            return 0;
-        }
+        
         while(high>=low){
             mid = (low+high)/2;
             if(target == nums[mid]) return mid;
