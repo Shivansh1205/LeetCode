@@ -1,18 +1,9 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int ans=0;
-        for(int i=0;i<nums.length;i++){
-            int num=nums[i];
-            int count=0;
-            while(num!=0){
-                num/=10;
-                count++;
-            }
-            if(count%2==0){
-                ans++;
-            }
+        int result = 0;
+        for (int number: nums) {
+            if ((number > 9 && number < 100) || (number > 999 && number < 10000) || (number == 100000)) result++;
         }
-        return ans;
-        
+        return result;
     }
 }
