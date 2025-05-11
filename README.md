@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Shivansh1205/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/Shivansh1205/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shivansh1205/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1293-three-consecutive-odds](https://github.com/Shivansh1205/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivansh1205/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shivansh1205/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivansh1205/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
