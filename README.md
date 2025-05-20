@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Shivansh1205/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Shivansh1205/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shivansh1205/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Shivansh1205/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shivansh1205/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Shivansh1205/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Shivansh1205/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shivansh1205/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shivansh1205/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shivansh1205/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0229-majority-element-ii) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Shivansh1205/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shivansh1205/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Shivansh1205/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shivansh1205/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
