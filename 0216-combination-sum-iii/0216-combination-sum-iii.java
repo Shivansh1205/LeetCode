@@ -14,13 +14,12 @@ class Solution {
             res.add(new ArrayList<>(cur));
             return;
         }
-        for(int i = start;i<arr.length;i++){
-            if (i > start && arr[i] == arr[i - 1]) continue;
-            if(arr[i]>n) break;
-            cur.add(i+1);
-            backtrack(k,n-arr[i],res,cur,arr,i+1);
+            if(n<0 || cur.size()>k || start>=9) return;
+            backtrack(k,n,res,cur,arr,start+1);
+            cur.add(arr[start]);
+            backtrack(k,n-arr[start],res,cur,arr,start+1);
             cur.remove(cur.size()-1);
-        }
+        
     }
 
 }
