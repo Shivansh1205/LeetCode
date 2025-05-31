@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivansh1205/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivansh1205/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Shivansh1205/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Shivansh1205/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Shivansh1205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Shivansh1205/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shivansh1205/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shivansh1205/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shivansh1205/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shivansh1205/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Shivansh1205/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shivansh1205/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Shivansh1205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shivansh1205/LeetCode/tree/master/0079-word-search) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh1205/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shivansh1205/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shivansh1205/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivansh1205/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Shivansh1205/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Shivansh1205/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shivansh1205/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Shivansh1205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
