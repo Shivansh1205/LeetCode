@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivansh1205/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Shivansh1205/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Shivansh1205/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shivansh1205/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shivansh1205/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shivansh1205/LeetCode/tree/master/0056-merge-intervals) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivansh1205/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Shivansh1205/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shivansh1205/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shivansh1205/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Shivansh1205/LeetCode/tree/master/0131-palindrome-partitioning) |
