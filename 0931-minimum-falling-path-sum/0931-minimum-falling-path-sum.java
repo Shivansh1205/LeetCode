@@ -7,18 +7,23 @@ class Solution {
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++) dp[i][j] =  -101;
         }
+        for(int j=0;j<n;j++) dp[0][j] = g[0][j];
+        for(int i=1;i<m;i++){
+            for(int j=0;j<n;j++){
+                int u = dp[i-1][j];
+                int l = (int)1e9,r=(int)1e9;
+                if(j>0){
+                    l=dp[i-1][j-1];
+                }
+                if(j<n-1){
+                    r=dp[i-1][j+1];
+                }
+                dp[i][j] = g[i][j]+Math.min(u,Math.min(l,r));
+            }
+        }
         for(int i=0;i<n;i++){
-            ans = Math.min(ans,f(m-1,i,g,dp));
+            ans = Math.min(ans,dp[m-1][i]);
         }
         return ans;
-    }
-    public int f(int i,int j,int[][] g, int[][] dp){
-        if(j<0 || j>g[0].length-1) return (int)1e9;
-        if(i==0) return g[i][j];
-        if(dp[i][j]!=-101 ) return dp[i][j];
-        int u = f(i-1,j,g,dp);
-        int l = f(i-1,j-1,g,dp);
-        int r = f(i-1,j+1,g,dp);
-        return dp[i][j] =g[i][j]+Math.min(u,Math.min(l,r));
     }
 }
