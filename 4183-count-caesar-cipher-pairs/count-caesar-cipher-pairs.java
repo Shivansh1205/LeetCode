@@ -21,7 +21,7 @@ class Solution {
         for (int i = 0; i < w.length(); i++) {
             int cur = w.charAt(i) - 'a';
             int diff = (cur - base + 26) % 26;
-            sb.append(diff).append('#');
+            sb.append(diff);
         }
 
         return sb.toString();
