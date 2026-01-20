@@ -1,21 +1,26 @@
 class Solution {
-  public boolean canPartition(int[] nums) {
-    final int sum = Arrays.stream(nums).sum();
-    if (sum % 2 == 1)
-      return false;
-
-    return knapsack(nums, sum / 2);
-  }
-
-  private boolean knapsack(int[] nums, int subsetSum) {
-    // dp[i] := true if i can be formed by nums so far
-    boolean[] dp = new boolean[subsetSum + 1];
-    dp[0] = true;
-
-    for (final int num : nums)
-      for (int i = subsetSum; i >= num; --i)
-        dp[i] = dp[i] || dp[i - num];
-
-    return dp[subsetSum];
-  }
+    public boolean canPartition(int[] nums) {
+        int sum=0;
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
+        }
+        if(sum%2==1)return false;
+        int[][] dp = new int[nums.length][sum];
+        for(int[] a: dp){
+            Arrays.fill(a,-1);
+        }
+        return f(nums,nums.length-1,sum/2,dp);
+    }
+    private boolean f(int[] nums, int idx, int sum, int[][] dp){
+        if(sum == 0 )return true;
+        if(idx==0) return (nums[0] == sum);
+        if(dp[idx][sum]!=-1) return dp[idx][sum]==1;
+        boolean nt = f(nums,idx-1,sum,dp);
+        boolean t = false;
+        if(sum>=nums[idx]){
+            t = f(nums, idx-1,sum-nums[idx],dp);
+        }
+        dp[idx][sum] = t||nt?1:0;
+        return t||nt;
+    }
 }
