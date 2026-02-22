@@ -1,40 +1,29 @@
 class Solution {
-  public List<Integer> largestDivisibleSubset(int[] nums) {
-    final int n = nums.length;
-    List<Integer> ans = new ArrayList<>();
-    // sizeEndsAt[i] := the maximum size ends in nums[i]
-    int[] sizeEndsAt = new int[n];
-    // prevIndex[i] := the best index s.t.
-    // 1. nums[i] % nums[prevIndex[i]] == 0 and
-    // 2. can increase the size of the subset
-    int[] prevIndex = new int[n];
-    int maxSize = 0; // Max size of the subset
-    int index = -1;  // Track the best ending index
-
-    Arrays.fill(sizeEndsAt, 1);
-    Arrays.fill(prevIndex, -1);
-    Arrays.sort(nums);
-
-    // Fix the maximum ending number in the subset.
-    for (int i = 0; i < n; ++i) {
-      for (int j = i - 1; j >= 0; --j)
-        if (nums[i] % nums[j] == 0 && sizeEndsAt[i] < sizeEndsAt[j] + 1) {
-          sizeEndsAt[i] = sizeEndsAt[j] + 1;
-          prevIndex[i] = j;
+    public List<Integer> largestDivisibleSubset(int[] nums) {
+        int[] dp =new int[nums.length];
+        int[] prev = new int[nums.length];
+        Arrays.sort(nums);
+        Arrays.fill(dp,1);
+        Arrays.fill(prev,-1);
+        int maxi=0,maxind=-1;
+        for(int i =0;i<nums.length;i++){
+            for(int j=0;j<i;j++){
+                if(nums[i]%nums[j]==0 && dp[i]<dp[j]+1){
+                    dp[i] = dp[j]+1;
+                    prev[i] =j;
+                }
+            }
+            if(dp[i]>maxi){
+                maxi=dp[i];
+                maxind=i;
+            }
         }
-      // Find a new subset that has a bigger size.
-      if (maxSize < sizeEndsAt[i]) {
-        maxSize = sizeEndsAt[i];
-        index = i; // Update the best ending index.
-      }
+        List<Integer> ans = new ArrayList<>();
+        int cur = maxind;
+        while(cur!=-1){
+            ans.add(nums[cur]);
+            cur = prev[cur];
+        }
+        return ans;
     }
-
-    // Loop from the back to the front.
-    while (index != -1) {
-      ans.add(nums[index]);
-      index = prevIndex[index];
-    }
-
-    return ans;
-  }
 }
