@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shivansh1205/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Shivansh1205/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shivansh1205/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Shivansh1205/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shivansh1205/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shivansh1205/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Shivansh1205/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivansh1205/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shivansh1205/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shivansh1205/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Shivansh1205/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivansh1205/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shivansh1205/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shivansh1205/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2906-construct-product-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shivansh1205/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shivansh1205/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
