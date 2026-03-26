@@ -1,74 +1,4 @@
 class Solution {
-
-    long total = 0;
-
-    public boolean checkHorCuts(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
-
-        HashSet<Long> set = new HashSet<>();
-        long top = 0;
-
-        for (int i = 0; i < m - 1; i++) {
-
-            for (int j = 0; j < n; j++) {
-                set.add((long)grid[i][j]);
-                top += grid[i][j];
-            }
-
-            long bottom = total - top;
-            long diff = top - bottom;
-
-            if (diff == 0) return true;
-
-            if (diff == grid[0][0]) return true;
-            if (diff == grid[0][n - 1]) return true;
-            if (diff == grid[i][0]) return true;
-
-            if (i > 0 && n > 1 && set.contains(diff)) {
-                return true;
-            }
-        }
-
-        return false;
-    }
-
-    public boolean canPartitionGrid(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
-
-        // compute total
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                total += grid[i][j];
-            }
-        }
-
-        // Horizontal
-        if (checkHorCuts(grid)) return true;
-
-        reverse(grid);
-
-        if (checkHorCuts(grid)) return true;
-
-        reverse(grid);
-
-        // Transpose
-        int[][] transposeGrid = new int[n][m];
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                transposeGrid[j][i] = grid[i][j];
-            }
-        }
-
-        if (checkHorCuts(transposeGrid)) return true;
-
-        reverse(transposeGrid);
-
-        return checkHorCuts(transposeGrid);
-    }
-
-    // Helper to reverse rows
     private void reverse(int[][] grid) {
         int top = 0, bottom = grid.length - 1;
 
@@ -80,5 +10,50 @@ class Solution {
             top++;
             bottom--;
         }
+    }
+    public boolean checkhor(int[][] grid, long total){
+        long top=0;
+        Set<Long> set = new HashSet<>();
+        for(int i=0;i<grid.length-1;i++){
+            for(int j=0;j<grid[0].length;j++){
+                top+=grid[i][j];
+                set.add((long)grid[i][j]);
+            }
+            long bot = total -top;
+            long diff = top-bot;
+            if(diff ==0 ) return true;
+            if (diff == grid[0][0]) return true;
+            if (diff == grid[0][grid[0].length - 1]) return true;
+            if (diff == grid[i][0]) return true;
+
+            if(i>0 && grid[0].length>1 && set.contains(diff)) return true;
+        }
+        return false;
+    }
+    public boolean canPartitionGrid(int[][] grid) {
+
+        int m = grid.length;
+        int n = grid[0].length;
+
+        long total = 0;
+        int[][] trans = new int[n][m];
+
+        // Row sums
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                total += grid[i][j];
+                trans[j][i] = grid[i][j];
+                //hor[i] += grid[i][j];
+                //ver[j] += grid[i][j];
+            }
+        }
+        if(checkhor(grid,total)) return true;
+        reverse(grid);
+        if(checkhor(grid,total)) return true;
+        reverse(grid);
+        if(checkhor(trans,total)) return true;
+        reverse(trans);
+        if(checkhor(trans,total)) return true;
+        return false;
     }
 }
