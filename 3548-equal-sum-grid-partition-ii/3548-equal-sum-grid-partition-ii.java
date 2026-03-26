@@ -12,15 +12,15 @@ class Solution {
         }
     }
     public boolean checkhor(int[][] grid, long total){
-        int top=0;
-        Set<Integer> set = new HashSet<>();
+        long top=0;
+        Set<Long> set = new HashSet<>();
         for(int i=0;i<grid.length-1;i++){
             for(int j=0;j<grid[0].length;j++){
                 top+=grid[i][j];
-                set.add(grid[i][j]);
+                set.add((long)grid[i][j]);
             }
-            int bot = (int)(total -(long)top);
-            int diff = top-bot;
+            long bot = total -top;
+            long diff = top-bot;
             if(diff ==0 ) return true;
             if (diff == grid[0][0]) return true;
             if (diff == grid[0][grid[0].length - 1]) return true;
