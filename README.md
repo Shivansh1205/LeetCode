@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shivansh1205/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shivansh1205/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shivansh1205/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shivansh1205/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Shivansh1205/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shivansh1205/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shivansh1205/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Shivansh1205/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shivansh1205/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Hash Table
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Shivansh1205/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Shivansh1205/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Shivansh1205/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shivansh1205/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shivansh1205/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/Shivansh1205/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shivansh1205/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2906-construct-product-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivansh1205/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Shivansh1205/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2681-put-marbles-in-bags](https://github.com/Shivansh1205/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shivansh1205/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shivansh1205/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -481,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-rotate-string](https://github.com/Shivansh1205/LeetCode/tree/master/0812-rotate-string) |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 <!---LeetCode Topics End-->
