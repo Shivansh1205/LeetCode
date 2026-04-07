@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shivansh1205/LeetCode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Shivansh1205/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shivansh1205/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/Shivansh1205/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shivansh1205/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shivansh1205/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/Shivansh1205/LeetCode/tree/main/2751-robot-collisions/) | Hard |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0838-design-linked-list](https://github.com/Shivansh1205/LeetCode/tree/master/0838-design-linked-list) |
+| [2069-walking-robot-simulation-ii](https://github.com/Shivansh1205/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
