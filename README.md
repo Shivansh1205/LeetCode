@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivansh1205/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shivansh1205/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Shivansh1205/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shivansh1205/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Shivansh1205/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shivansh1205/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivansh1205/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shivansh1205/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Shivansh1205/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Shivansh1205/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/Shivansh1205/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivansh1205/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Shivansh1205/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
