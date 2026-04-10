@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Shivansh1205/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shivansh1205/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shivansh1205/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Shivansh1205/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shivansh1205/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shivansh1205/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shivansh1205/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
