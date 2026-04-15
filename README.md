@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shivansh1205/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shivansh1205/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shivansh1205/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivansh1205/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shivansh1205/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shivansh1205/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Shivansh1205/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Shivansh1205/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2478-longest-nice-subarray](https://github.com/Shivansh1205/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivansh1205/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shivansh1205/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shivansh1205/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
