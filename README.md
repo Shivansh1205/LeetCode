@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shivansh1205/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shivansh1205/LeetCode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Shivansh1205/LeetCode/tree/master/0282-expression-add-operators) |
+| [0306-additive-number](https://github.com/Shivansh1205/LeetCode/tree/main/0306-additive-number/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Shivansh1205/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Shivansh1205/LeetCode/tree/master/0812-rotate-string) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Shivansh1205/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shivansh1205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Shivansh1205/LeetCode/tree/master/0282-expression-add-operators) |
+| [0306-additive-number](https://github.com/Shivansh1205/LeetCode/tree/main/0306-additive-number/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 | Problem Name | Difficulty |
