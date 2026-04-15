@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Shivansh1205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shivansh1205/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shivansh1205/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Shivansh1205/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shivansh1205/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Shivansh1205/LeetCode/tree/master/0282-expression-add-operators) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Shivansh1205/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Shivansh1205/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Shivansh1205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Shivansh1205/LeetCode/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/Shivansh1205/LeetCode/tree/main/0306-additive-number/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 | Problem Name | Difficulty |
