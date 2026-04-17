@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0526-beautiful-arrangement](https://github.com/Shivansh1205/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
 | [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shivansh1205/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Shivansh1205/LeetCode/tree/master/0139-word-break) |
+| [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
 | [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Shivansh1205/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivansh1205/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivansh1205/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
 | [0792-binary-search](https://github.com/Shivansh1205/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Shivansh1205/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0874-walking-robot-simulation](https://github.com/Shivansh1205/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Shivansh1205/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Shivansh1205/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shivansh1205/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Shivansh1205/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Shivansh1205/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Shivansh1205/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -559,4 +564,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0526-beautiful-arrangement](https://github.com/Shivansh1205/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
 <!---LeetCode Topics End-->
