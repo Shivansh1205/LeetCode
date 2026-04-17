@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Shivansh1205/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0812-rotate-string](https://github.com/Shivansh1205/LeetCode/tree/master/0812-rotate-string) |
 | [0816-ambiguous-coordinates](https://github.com/Shivansh1205/LeetCode/tree/main/0816-ambiguous-coordinates/) | Medium |
+| [0949-largest-time-for-given-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1078-remove-outermost-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shivansh1205/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shivansh1205/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Shivansh1205/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Shivansh1205/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-koko-eating-bananas](https://github.com/Shivansh1205/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0949-largest-time-for-given-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shivansh1205/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Shivansh1205/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivansh1205/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Shivansh1205/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0816-ambiguous-coordinates](https://github.com/Shivansh1205/LeetCode/tree/main/0816-ambiguous-coordinates/) | Medium |
+| [0949-largest-time-for-given-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shivansh1205/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Shivansh1205/LeetCode/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0816-ambiguous-coordinates](https://github.com/Shivansh1205/LeetCode/tree/main/0816-ambiguous-coordinates/) | Medium |
+| [0949-largest-time-for-given-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shivansh1205/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
