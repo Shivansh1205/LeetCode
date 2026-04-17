@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Shivansh1205/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shivansh1205/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shivansh1205/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shivansh1205/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shivansh1205/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shivansh1205/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Shivansh1205/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Shivansh1205/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shivansh1205/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 | Problem Name | Difficulty |
