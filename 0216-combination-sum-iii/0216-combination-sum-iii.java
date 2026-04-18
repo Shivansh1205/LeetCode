@@ -18,7 +18,7 @@ class Solution {
         for(int i=idx;i<nums.length;i++){
             //if (i > idx && nums[i] == nums[i - 1]) continue;
 
-            if (nums[i] > n) break; // pruning
+            // if (nums[i] > n) break; // pruning
 
             cur.add(nums[i]);
             f(nums,k-1,n-nums[i],res,cur,i+1);
