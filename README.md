@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shivansh1205/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shivansh1205/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivansh1205/LeetCode/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/Shivansh1205/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Shivansh1205/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shivansh1205/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/Shivansh1205/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0282-expression-add-operators](https://github.com/Shivansh1205/LeetCode/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/Shivansh1205/LeetCode/tree/main/0306-additive-number/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
