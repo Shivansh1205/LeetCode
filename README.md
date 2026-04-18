@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivansh1205/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Shivansh1205/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Shivansh1205/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Shivansh1205/LeetCode/tree/master/0048-rotate-image) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Shivansh1205/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Shivansh1205/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Shivansh1205/LeetCode/tree/master/0051-n-queens) |
