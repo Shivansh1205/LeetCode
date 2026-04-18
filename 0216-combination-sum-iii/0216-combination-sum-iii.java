@@ -16,7 +16,7 @@ class Solution {
         }
         if(idx == nums.length) return;
         for(int i=idx;i<nums.length;i++){
-            if (i > idx && nums[i] == nums[i - 1]) continue;
+            //if (i > idx && nums[i] == nums[i - 1]) continue;
 
             if (nums[i] > n) break; // pruning
 
