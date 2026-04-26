@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Shivansh1205/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivansh1205/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shivansh1205/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivansh1205/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivansh1205/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shivansh1205/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shivansh1205/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh1205/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Shivansh1205/LeetCode/tree/main/0967-numbers-with-same-consecutive-differences/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shivansh1205/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh1205/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3905-multi-source-flood-fill](https://github.com/Shivansh1205/LeetCode/tree/main/3905-multi-source-flood-fill/) | Medium |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shivansh1205/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shivansh1205/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2047-find-a-peak-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -624,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shivansh1205/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Bitmask
