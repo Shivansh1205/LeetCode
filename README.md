@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shivansh1205/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2050-count-good-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivansh1205/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivansh1205/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shivansh1205/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2047-find-a-peak-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivansh1205/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Shivansh1205/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivansh1205/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2463-minimum-total-distance-traveled](https://github.com/Shivansh1205/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shivansh1205/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2047-find-a-peak-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Shivansh1205/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
