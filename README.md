@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Shivansh1205/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shivansh1205/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shivansh1205/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Shivansh1205/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivansh1205/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/Shivansh1205/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Shivansh1205/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shivansh1205/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Shivansh1205/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Shivansh1205/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Shivansh1205/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2478-longest-nice-subarray](https://github.com/Shivansh1205/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivansh1205/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shivansh1205/LeetCode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Shivansh1205/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Shivansh1205/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
