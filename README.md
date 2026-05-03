@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/Shivansh1205/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
+| [0796-rotate-string](https://github.com/Shivansh1205/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/Shivansh1205/LeetCode/tree/master/0812-rotate-string) |
 | [0816-ambiguous-coordinates](https://github.com/Shivansh1205/LeetCode/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/Shivansh1205/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0812-rotate-string](https://github.com/Shivansh1205/LeetCode/tree/master/0812-rotate-string) |
 ## Union-Find
 | Problem Name | Difficulty |
