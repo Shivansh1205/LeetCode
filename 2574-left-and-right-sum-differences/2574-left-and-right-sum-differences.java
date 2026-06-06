@@ -6,7 +6,7 @@ class Solution {
         for(int x : nums) sum+=x;
         for(int i=0;i<nums.length;i++){
             int r = sum-nums[i]-left;
-            ans[i] = Math.abs(left-r);
+            ans[i] = Math.abs(left-sum+nums[i]+left);
             left += nums[i];
         }
         return ans;
