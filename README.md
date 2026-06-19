@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivansh1205/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shivansh1205/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shivansh1205/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Shivansh1205/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shivansh1205/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shivansh1205/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Shivansh1205/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivansh1205/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shivansh1205/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Shivansh1205/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Shivansh1205/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivansh1205/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Shivansh1205/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
