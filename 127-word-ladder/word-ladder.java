@@ -1,53 +1,50 @@
-import java.util.*;
-
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
+        Set<String> wordSet = new HashSet<>(wordList);
+        
+        // corner cases
+        if (beginWord.equals(endWord)) return 1;
+        else if (!wordSet.contains(endWord)) return 0;
 
-        Set<String> st = new HashSet<>(wordList);
+        Queue<String> queue = new LinkedList<>(); // mark visited at Generation
+        queue.offer(beginWord);
+        wordSet.remove(beginWord);
 
-        if (!st.contains(endWord)) return 0;
+        // bfs
+        int size = queue.size();
+        int dist = 1;
 
-        Queue<Pair> q = new LinkedList<>();
-        q.offer(new Pair(beginWord, 1));
+        while (size > 0) {
+            for (int idx = 0; idx < size; idx++) { // poll per level
+                char[] word = (queue.poll()).toCharArray();
 
-        st.remove(beginWord);
+                // traverse nei of word
+                for (int i = 0; i < word.length; i++) {
+                    char original = word[i];
+                    for (char c = 'a'; c <= 'z'; c++) {
+                        if (c == original) continue;
 
-        while (!q.isEmpty()) {
-            Pair curr = q.poll();
+                        word[i] = c;
+                        String nei = new String(word);
+                        if (nei.equals(endWord)) return dist + 1;
 
-            String word = curr.word;
-            int steps = curr.steps;
-
-            if (word.equals(endWord)) {
-                return steps;
-            }
-
-            for (int i = 0; i < word.length(); i++) {
-                char[] arr = word.toCharArray();
-
-                for (char ch = 'a'; ch <= 'z'; ch++) {
-                    arr[i] = ch;
-
-                    String newWord = new String(arr);
-
-                    if (st.contains(newWord)) {
-                        st.remove(newWord);
-                        q.offer(new Pair(newWord, steps + 1));
+                        // check if nei is valid (in graph && not visited)
+                        if (wordSet.contains(nei)) {
+                            // mark visited at generation
+                            queue.offer(nei);
+                            wordSet.remove(nei);
+                        }
                     }
+
+                    // IMPORTANT! put back
+                    word[i] = original;
                 }
             }
+
+            size = queue.size();
+            dist++;
         }
 
         return 0;
-    }
-}
-
-class Pair {
-    String word;
-    int steps;
-
-    Pair(String word, int steps) {
-        this.word = word;
-        this.steps = steps;
     }
 }
