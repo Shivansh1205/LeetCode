@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Shivansh1205/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0949-largest-time-for-given-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shivansh1205/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Shivansh1205/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shivansh1205/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Shivansh1205/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/Shivansh1205/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Shivansh1205/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Shivansh1205/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Shivansh1205/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shivansh1205/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Shivansh1205/LeetCode/tree/main/0967-numbers-with-same-consecutive-differences/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shivansh1205/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Shivansh1205/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Shivansh1205/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Shivansh1205/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shivansh1205/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Shivansh1205/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1861-rotating-the-box](https://github.com/Shivansh1205/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -717,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Shivansh1205/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Shivansh1205/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shivansh1205/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
