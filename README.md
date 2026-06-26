@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shivansh1205/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Shivansh1205/LeetCode/tree/main/1340-jump-game-v/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shivansh1205/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2463-minimum-total-distance-traveled](https://github.com/Shivansh1205/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shivansh1205/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Shivansh1205/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -760,4 +763,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Shivansh1205/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Shivansh1205/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
