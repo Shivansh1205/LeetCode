@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Shivansh1205/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shivansh1205/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shivansh1205/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Shivansh1205/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shivansh1205/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3660-jump-game-ix](https://github.com/Shivansh1205/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Shivansh1205/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shivansh1205/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Shivansh1205/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shivansh1205/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivansh1205/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3488-closest-equal-element-queries](https://github.com/Shivansh1205/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shivansh1205/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shivansh1205/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Shivansh1205/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shivansh1205/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Shivansh1205/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shivansh1205/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Shivansh1205/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shivansh1205/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivansh1205/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Shivansh1205/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Shivansh1205/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shivansh1205/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Shivansh1205/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shivansh1205/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Counting
@@ -625,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Shivansh1205/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shivansh1205/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shivansh1205/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -774,4 +781,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Shivansh1205/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shivansh1205/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
