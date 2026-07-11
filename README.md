@@ -786,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Shivansh1205/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/Shivansh1205/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/Shivansh1205/LeetCode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Shivansh1205/LeetCode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 <!---LeetCode Topics End-->
