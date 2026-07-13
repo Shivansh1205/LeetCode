@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0816-ambiguous-coordinates](https://github.com/Shivansh1205/LeetCode/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
+| [1291-sequential-digits](https://github.com/Shivansh1205/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shivansh1205/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
