@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Shivansh1205/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Shivansh1205/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Shivansh1205/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shivansh1205/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shivansh1205/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Shivansh1205/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivansh1205/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shivansh1205/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shivansh1205/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shivansh1205/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shivansh1205/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Shivansh1205/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shivansh1205/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/Shivansh1205/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shivansh1205/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shivansh1205/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shivansh1205/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shivansh1205/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shivansh1205/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3430-count-days-without-meetings](https://github.com/Shivansh1205/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shivansh1205/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shivansh1205/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
