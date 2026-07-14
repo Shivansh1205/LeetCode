@@ -1,21 +1,22 @@
 class Solution {
-    public int uniquePathsWithObstacles(int[][] g) {
-        int m = g.length;
-        int n= g[0].length;
-        int[][] dp = new int[m][n];
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++) dp[i][j] =-1;
-        }
-        int ans=f(g.length-1,g[0].length-1,dp,g);
+    public int uniquePathsWithObstacles(int[][] grid) {
+        int[][] dp =new int[grid.length][grid[0].length];
+        for(int[] e : dp ) Arrays.fill(e,-1);
+        if(grid[0][0]==1) return 0;
+        int ans = f(grid,0,0,dp);
         return ans;
     }
-    public int f(int i,int j,int[][]dp,int[][]g){
-        if(i>=0 && j>=0 &&g[i][j]==1) return 0;
-        if(i==0 && j==0) return 1;
-        if(i<0 || j<0) return 0;
+    private int f(int[][] grid,int i, int j,int[][] dp){
+        if(i>=grid.length || j>=grid[0].length) return 0;
+        if(i== grid.length-1 && j== grid[0].length-1) return 1;
         if(dp[i][j]!=-1) return dp[i][j];
-        int up = f(i-1,j,dp,g);
-        int left = f(i,j-1,dp,g);
-        return dp[i][j] = up+left;
+        int p1=0,p2=0;
+        if(i+1<grid.length && grid[i+1][j]!=1){
+            p1 =f(grid,i+1,j,dp); 
+        }
+        if(j+1<grid[0].length && grid[i][j+1]!=1){
+            p2 = f(grid,i,j+1,dp);
+        }
+        return dp[i][j]=p1+p2;
     }
 }
