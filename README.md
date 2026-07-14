@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Shivansh1205/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Shivansh1205/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Shivansh1205/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shivansh1205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shivansh1205/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shivansh1205/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivansh1205/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Shivansh1205/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Shivansh1205/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Shivansh1205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shivansh1205/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Shivansh1205/LeetCode/tree/master/0139-word-break) |
