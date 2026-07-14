@@ -1,26 +1,27 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int sum=0;
-        for(int i=0;i<nums.length;i++){
-            sum+=nums[i];
-        }
-        if(sum%2==1)return false;
-        int[][] dp = new int[nums.length][sum];
-        for(int[] a: dp){
-            Arrays.fill(a,-1);
-        }
-        return f(nums,nums.length-1,sum/2,dp);
+        int sum = 0;
+        for (int x : nums) sum += x;
+
+        if ((sum & 1) == 1) return false;
+
+        Boolean[][] dp = new Boolean[nums.length][sum / 2 + 1];
+
+        return f(nums, sum / 2, 0, dp);
     }
-    private boolean f(int[] nums, int idx, int sum, int[][] dp){
-        if(sum == 0 )return true;
-        if(idx==0) return (nums[0] == sum);
-        if(dp[idx][sum]!=-1) return dp[idx][sum]==1;
-        boolean nt = f(nums,idx-1,sum,dp);
-        boolean t = false;
-        if(sum>=nums[idx]){
-            t = f(nums, idx-1,sum-nums[idx],dp);
-        }
-        dp[idx][sum] = t||nt?1:0;
-        return t||nt;
+
+    private boolean f(int[] nums, int sum, int i, Boolean[][] dp) {
+        if (sum == 0) return true;
+        if (i == nums.length) return false;
+
+        if (dp[i][sum] != null) return dp[i][sum];
+
+        boolean pick = false;
+        if (nums[i] <= sum)
+            pick = f(nums, sum - nums[i], i + 1, dp);
+
+        boolean notPick = f(nums, sum, i + 1, dp);
+
+        return dp[i][sum] = pick || notPick;
     }
 }
