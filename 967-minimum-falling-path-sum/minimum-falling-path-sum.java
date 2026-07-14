@@ -1,58 +1,29 @@
-// class Solution {
-//     public int minFallingPathSum(int[][] g) {
-//         int m = g.length;
-//         int n = g[0].length;
-//         int ans = (int)1e9;
-//         int[][]dp = new int[m][n];
-//         for(int i=0;i<m;i++){
-//             for(int j=0;j<n;j++) dp[i][j] =  -101;
-//         }
-//         for(int j=0;j<n;j++) dp[0][j] = g[0][j];
-//         for(int i=1;i<m;i++){
-//             for(int j=0;j<n;j++){
-//                 int u = dp[i-1][j];
-//                 int l = (int)1e9,r=(int)1e9;
-//                 if(j>0){
-//                     l=dp[i-1][j-1];
-//                 }
-//                 if(j<n-1){
-//                     r=dp[i-1][j+1];
-//                 }
-//                 dp[i][j] = g[i][j]+Math.min(u,Math.min(l,r));
-//             }
-//         }
-//         for(int i=0;i<n;i++){
-//             ans = Math.min(ans,dp[m-1][i]);
-//         }
-//         return ans;
-//     }
-// }
 class Solution {
-    public int minFallingPathSum(int[][] g) {
-        int m = g.length;
-        int n = g[0].length;
-        int ans = (int)1e9;
-        int[] front = new int[n];
-        int[] cur = new int[n];
-        for(int j=0;j<n;j++) front[j] = g[0][j];
-        for(int i=1;i<m;i++){
-            for(int j=0;j<n;j++){
-                int u = front[j];
-                int l = (int)1e9,r=(int)1e9;
-                if(j>0){
-                    l=front[j-1];
-                }
-                if(j<n-1){
-                    r=front[j+1];
-                }
-                cur[j] = g[i][j]+Math.min(u,Math.min(l,r));
-            }
-            front = cur;
-            cur = new int[n];
+    public int minFallingPathSum(int[][] matrix) {
+        int n = matrix.length;
+        int ans = Integer.MAX_VALUE;
+        int[][] dp = new int[matrix.length][matrix.length+1];
+        for(int[] e : dp ) Arrays.fill(e,-101);
+        for (int col = 0; col < n; col++) {
+            ans = Math.min(ans, f(matrix, 0, col,dp));
         }
-        for(int i=0;i<n;i++){
-            ans = Math.min(ans, front[i]);
-        }
+
         return ans;
+    }
+
+    private int f(int[][] mat, int row, int col,int[][] dp) {
+        int n = mat.length;
+        if (col < 0 || col >= n)
+            return (int)1e9;
+
+        if (row == n - 1)
+            return mat[row][col];
+        if(dp[row][col]!=-101) return dp[row][col];
+
+        int down = f(mat, row + 1, col,dp);
+        int left = f(mat, row + 1, col - 1,dp);
+        int right = f(mat, row + 1, col + 1,dp);
+
+        return dp[row][col] = mat[row][col] + Math.min(down, Math.min(left, right));
     }
 }
