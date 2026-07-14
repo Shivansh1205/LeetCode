@@ -1,17 +1,23 @@
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
-        int m = triangle.size();
-        int[][] dp = new int[m][m];
-        for(int i=0;i<m;i++)
-            for(int j=0;j<m;j++) dp[i][j] =-1;
-        int ans = f(0,0,m-1,triangle,dp);
+        Integer [][] dp = new Integer[triangle.size()][triangle.get(triangle.size()-1).size()];
+        int ans = f(triangle, 0,0,dp);
         return ans;
     }
-    public int f(int i, int j, int n, List<List<Integer>> triangle,int[][] dp){
-        if(i==n) return triangle.get(i).get(j);
-        if(dp[i][j] !=-1) return dp[i][j];
-        int d = triangle.get(i).get(j) + f(i+1,j,n,triangle,dp);
-        int right = triangle.get(i).get(j) + f(i+1,j+1,n,triangle,dp);
-        return dp[i][j] = Math.min(d,right); 
+    private int f(List<List<Integer>> tri, int i, int j,Integer[][] dp){
+        if(i>=tri.size() || j>=tri.get(tri.size()-1).size()) return 0;
+        if(dp[i][j] != null) return dp[i][j];
+        if(i == tri.size()-1){
+            int mini = Integer.MAX_VALUE;
+
+            mini = Math.min(mini, tri.get(i).get(j));
+            return mini;
+        }
+        int mini = Integer.MAX_VALUE;
+        int sum = tri.get(i).get(j) + f(tri,i+1,j,dp);
+
+        int sum2 = tri.get(i).get(j) + f(tri,i+1,j+1,dp);
+        mini = Math.min(mini, Math.min(sum,sum2));
+        return dp[i][j] = mini;
     }
 }
