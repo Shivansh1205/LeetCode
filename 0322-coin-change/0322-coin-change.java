@@ -1,21 +1,22 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int[][] dp = new int[coins.length][amount+1];
-        for(int[] a : dp){
-            Arrays.fill(a,-1);
-        }
-        int ans = f(coins, amount,coins.length-1,dp);
-        return ans==(int)1e9?-1:ans;
+        Integer[][] dp = new Integer[coins.length][amount+1];
+
+        int ans = f(coins, amount, 0,dp);
+        return ans>=(int)1e9?-1:ans;
     }
-    private int f(int[] coins, int amount, int idx,int[][]dp){
-        if(idx<0) return (int)1e9;
-        if(amount ==0) return 0;
-        if(dp[idx][amount]!=-1) return dp[idx][amount];
-        int np = f(coins, amount, idx-1,dp);
-        int p=(int)1e9;
-        if(coins[idx]<=amount){
-            p =1+ f(coins,amount-coins[idx],idx,dp);
+    private int f(int[] nums, int  target, int i,Integer[][] dp){
+        if(i ==nums.length-1){
+            if(target%nums[i] ==0) return target/nums[i];
+            else return (int)1e9;
         }
-        return dp[idx][amount]=Math.min(p,np);
+        if(dp[i][target] != null) return (int)dp[i][target];
+        int np = 0 + f(nums,target,i+1,dp);
+        int p =(int) 1e9;
+        if(nums[i] <=target){
+            p = 1+f(nums,target-nums[i],i,dp);
+        }
+        int res = Math.min(p,np);
+        return dp[i][target]=res;
     }
 }
