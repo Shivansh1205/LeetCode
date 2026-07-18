@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shivansh1205/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Shivansh1205/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0282-expression-add-operators](https://github.com/Shivansh1205/LeetCode/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/Shivansh1205/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0306-additive-number](https://github.com/Shivansh1205/LeetCode/tree/main/0306-additive-number/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Shivansh1205/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0756-pyramid-transition-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shivansh1205/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Shivansh1205/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Shivansh1205/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivansh1205/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
