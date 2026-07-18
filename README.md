@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shivansh1205/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Shivansh1205/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shivansh1205/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Shivansh1205/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Shivansh1205/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shivansh1205/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shivansh1205/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shivansh1205/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0066-plus-one](https://github.com/Shivansh1205/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Shivansh1205/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivansh1205/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shivansh1205/LeetCode/tree/master/0075-sort-colors) |
