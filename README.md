@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivansh1205/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Shivansh1205/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Shivansh1205/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Shivansh1205/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Shivansh1205/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shivansh1205/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivansh1205/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shivansh1205/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shivansh1205/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0838-design-linked-list](https://github.com/Shivansh1205/LeetCode/tree/master/0838-design-linked-list) |
 | [2069-walking-robot-simulation-ii](https://github.com/Shivansh1205/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Trie
