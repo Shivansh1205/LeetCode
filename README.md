@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Shivansh1205/LeetCode/tree/master/0079-word-search) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0210-course-schedule-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/Shivansh1205/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0542-01-matrix/) | Medium |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shivansh1205/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shivansh1205/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
