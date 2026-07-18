@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Shivansh1205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Shivansh1205/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivansh1205/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/Shivansh1205/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Shivansh1205/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shivansh1205/LeetCode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Shivansh1205/LeetCode/tree/master/0282-expression-add-operators) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shivansh1205/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Shivansh1205/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Shivansh1205/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/Shivansh1205/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0189-rotate-array](https://github.com/Shivansh1205/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shivansh1205/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
