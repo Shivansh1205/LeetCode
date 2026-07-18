@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivansh1205/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivansh1205/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Shivansh1205/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shivansh1205/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0792-binary-search](https://github.com/Shivansh1205/LeetCode/tree/master/0792-binary-search) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Shivansh1205/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Shivansh1205/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Shivansh1205/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/Shivansh1205/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [1340-jump-game-v](https://github.com/Shivansh1205/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivansh1205/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1840-maximum-building-height](https://github.com/Shivansh1205/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Shivansh1205/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/Shivansh1205/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Shivansh1205/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Shivansh1205/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -914,4 +917,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shivansh1205/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/Shivansh1205/LeetCode/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
