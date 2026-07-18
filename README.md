@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Shivansh1205/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh1205/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/Shivansh1205/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0743-network-delay-time](https://github.com/Shivansh1205/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shivansh1205/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh1205/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0542-01-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Shivansh1205/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0743-network-delay-time](https://github.com/Shivansh1205/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Shivansh1205/LeetCode/tree/main/0967-numbers-with-same-consecutive-differences/) | Medium |
 | [0994-rotting-oranges](https://github.com/Shivansh1205/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Shivansh1205/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh1205/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shivansh1205/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
