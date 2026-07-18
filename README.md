@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Shivansh1205/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Shivansh1205/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Shivansh1205/LeetCode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shivansh1205/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0756-pyramid-transition-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shivansh1205/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh1205/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Shivansh1205/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivansh1205/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivansh1205/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
