@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivansh1205/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivansh1205/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Shivansh1205/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0079-word-search](https://github.com/Shivansh1205/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Shivansh1205/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Shivansh1205/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shivansh1205/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shivansh1205/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shivansh1205/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Shivansh1205/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/Shivansh1205/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shivansh1205/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Shivansh1205/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Shivansh1205/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Shivansh1205/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Shivansh1205/LeetCode/tree/master/0136-single-number) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Shivansh1205/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Shivansh1205/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shivansh1205/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Shivansh1205/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
