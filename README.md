@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivansh1205/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shivansh1205/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Shivansh1205/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shivansh1205/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shivansh1205/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shivansh1205/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Shivansh1205/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Shivansh1205/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Shivansh1205/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shivansh1205/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
