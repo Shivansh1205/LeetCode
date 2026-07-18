@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shivansh1205/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Shivansh1205/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Shivansh1205/LeetCode/tree/main/0743-network-delay-time/) | Medium |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shivansh1205/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0210-course-schedule-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Shivansh1205/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Shivansh1205/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shivansh1205/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shivansh1205/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shivansh1205/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shivansh1205/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Backtracking
