@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shivansh1205/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Shivansh1205/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Shivansh1205/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/Shivansh1205/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Shivansh1205/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Shivansh1205/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivansh1205/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Shivansh1205/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Shivansh1205/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Shivansh1205/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0322-coin-change](https://github.com/Shivansh1205/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Shivansh1205/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Shivansh1205/LeetCode/tree/main/0743-network-delay-time/) | Medium |
