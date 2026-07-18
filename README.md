@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Shivansh1205/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Shivansh1205/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Shivansh1205/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shivansh1205/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Shivansh1205/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/Shivansh1205/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0494-target-sum](https://github.com/Shivansh1205/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Shivansh1205/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivansh1205/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0542-01-matrix/) | Medium |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/Shivansh1205/LeetCode/tree/main/0306-additive-number/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Shivansh1205/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0494-target-sum](https://github.com/Shivansh1205/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Shivansh1205/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shivansh1205/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
