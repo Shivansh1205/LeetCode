@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Shivansh1205/LeetCode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/Shivansh1205/LeetCode/tree/main/0551-student-attendance-record-i/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Shivansh1205/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shivansh1205/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0756-pyramid-transition-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh1205/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Shivansh1205/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivansh1205/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Shivansh1205/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0756-pyramid-transition-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Shivansh1205/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shivansh1205/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Shivansh1205/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Shivansh1205/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shivansh1205/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0792-binary-search](https://github.com/Shivansh1205/LeetCode/tree/master/0792-binary-search) |
