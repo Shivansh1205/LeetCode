@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Shivansh1205/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Shivansh1205/LeetCode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0551-student-attendance-record-i](https://github.com/Shivansh1205/LeetCode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shivansh1205/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0756-pyramid-transition-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
