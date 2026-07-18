@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Shivansh1205/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/Shivansh1205/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Shivansh1205/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh1205/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/Shivansh1205/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Shivansh1205/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Shivansh1205/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Shivansh1205/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/Shivansh1205/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh1205/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0542-01-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Shivansh1205/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Shivansh1205/LeetCode/tree/main/0743-network-delay-time/) | Medium |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Shivansh1205/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh1205/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shivansh1205/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Tree
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Shivansh1205/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh1205/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shivansh1205/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Backtracking
@@ -891,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh1205/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
