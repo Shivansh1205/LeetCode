@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-ambiguous-coordinates](https://github.com/Shivansh1205/LeetCode/tree/main/0816-ambiguous-coordinates/) | Medium |
 | [0949-largest-time-for-given-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1078-remove-outermost-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Shivansh1205/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shivansh1205/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shivansh1205/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Shivansh1205/LeetCode/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shivansh1205/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Shivansh1205/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Shivansh1205/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shivansh1205/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Shivansh1205/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
