@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shivansh1205/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Shivansh1205/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1406-stone-game-iii](https://github.com/Shivansh1205/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1563-stone-game-v](https://github.com/Shivansh1205/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Shivansh1205/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Shivansh1205/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Shivansh1205/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shivansh1205/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shivansh1205/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1563-stone-game-v](https://github.com/Shivansh1205/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/Shivansh1205/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shivansh1205/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shivansh1205/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivansh1205/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shivansh1205/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1563-stone-game-v](https://github.com/Shivansh1205/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivansh1205/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivansh1205/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Shivansh1205/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shivansh1205/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Shivansh1205/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Shivansh1205/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1563-stone-game-v](https://github.com/Shivansh1205/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
