@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Shivansh1205/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/Shivansh1205/LeetCode/tree/main/3905-multi-source-flood-fill/) | Medium |
+| [4020-elevator-requests-i](https://github.com/Shivansh1205/LeetCode/tree/main/4020-elevator-requests-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Shivansh1205/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shivansh1205/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shivansh1205/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [4020-elevator-requests-i](https://github.com/Shivansh1205/LeetCode/tree/main/4020-elevator-requests-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
