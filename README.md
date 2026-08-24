@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Shivansh1205/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0313-super-ugly-number](https://github.com/Shivansh1205/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/Shivansh1205/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Shivansh1205/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Shivansh1205/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0282-expression-add-operators](https://github.com/Shivansh1205/LeetCode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Shivansh1205/LeetCode/tree/main/0292-nim-game/) | Easy |
+| [0313-super-ugly-number](https://github.com/Shivansh1205/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Shivansh1205/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Shivansh1205/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivansh1205/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shivansh1205/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0313-super-ugly-number](https://github.com/Shivansh1205/LeetCode/tree/main/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/Shivansh1205/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh1205/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Shivansh1205/LeetCode/tree/master/0368-largest-divisible-subset) |
