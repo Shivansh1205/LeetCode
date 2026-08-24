@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Shivansh1205/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Shivansh1205/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0264-ugly-number-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0322-coin-change](https://github.com/Shivansh1205/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Shivansh1205/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shivansh1205/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Shivansh1205/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Shivansh1205/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shivansh1205/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0263-ugly-number](https://github.com/Shivansh1205/LeetCode/tree/main/0263-ugly-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Shivansh1205/LeetCode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Shivansh1205/LeetCode/tree/main/0292-nim-game/) | Easy |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0264-ugly-number-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0743-network-delay-time](https://github.com/Shivansh1205/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Shivansh1205/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Shivansh1205/LeetCode/tree/master/2681-put-marbles-in-bags) |
