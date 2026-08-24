@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shivansh1205/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0091-decode-ways](https://github.com/Shivansh1205/LeetCode/tree/main/0091-decode-ways/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Shivansh1205/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Shivansh1205/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shivansh1205/LeetCode/tree/main/0112-path-sum/) | Easy |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Shivansh1205/LeetCode/tree/main/0112-path-sum/) | Easy |
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shivansh1205/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Shivansh1205/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Shivansh1205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Shivansh1205/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
@@ -971,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivansh1205/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shivansh1205/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Brainteaser
