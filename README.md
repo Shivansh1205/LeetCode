@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Shivansh1205/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shivansh1205/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shivansh1205/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Shivansh1205/LeetCode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shivansh1205/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivansh1205/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Shivansh1205/LeetCode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -913,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Shivansh1205/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shivansh1205/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Shivansh1205/LeetCode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Shivansh1205/LeetCode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
