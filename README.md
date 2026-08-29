@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shivansh1205/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Shivansh1205/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Shivansh1205/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Shivansh1205/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivansh1205/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shivansh1205/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Shivansh1205/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Shivansh1205/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0792-binary-search](https://github.com/Shivansh1205/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Shivansh1205/LeetCode/tree/master/0797-rabbits-in-forest) |
