@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shivansh1205/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shivansh1205/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shivansh1205/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Shivansh1205/LeetCode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Shivansh1205/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shivansh1205/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shivansh1205/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Shivansh1205/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/Shivansh1205/LeetCode/tree/main/3905-multi-source-flood-fill/) | Medium |
