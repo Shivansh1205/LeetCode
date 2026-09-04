@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shivansh1205/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivansh1205/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Shivansh1205/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
