@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shivansh1205/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shivansh1205/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shivansh1205/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Shivansh1205/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Shivansh1205/LeetCode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 ## Two Pointers
