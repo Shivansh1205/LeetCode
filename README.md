@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Shivansh1205/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Shivansh1205/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0797-rabbits-in-forest](https://github.com/Shivansh1205/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0836-rectangle-overlap](https://github.com/Shivansh1205/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Shivansh1205/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1013-fibonacci-number](https://github.com/Shivansh1205/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Shivansh1205/LeetCode/tree/main/1025-divisor-game/) | Easy |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Shivansh1205/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shivansh1205/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
