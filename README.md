@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Shivansh1205/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivansh1205/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivansh1205/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shivansh1205/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Shivansh1205/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Shivansh1205/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shivansh1205/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivansh1205/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shivansh1205/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Shivansh1205/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Shivansh1205/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
