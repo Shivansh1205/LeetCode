@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0949-largest-time-for-given-digits](https://github.com/Shivansh1205/LeetCode/tree/main/0949-largest-time-for-given-digits/) | Medium |
 | [1078-remove-outermost-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Shivansh1205/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shivansh1205/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Shivansh1205/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Shivansh1205/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shivansh1205/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2751-robot-collisions](https://github.com/Shivansh1205/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [3001-apply-operations-to-maximize-score](https://github.com/Shivansh1205/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Shivansh1205/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
