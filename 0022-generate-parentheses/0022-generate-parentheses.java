@@ -1,19 +1,23 @@
 class Solution {
+    List<String> res = new ArrayList<>();
+
     public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList();
-        generate(res,0,0,n,"");
+        if (n-- == 1) return List.of("()");
+        dfs(n, n, "(");
+
         return res;
     }
-    public void generate(List<String> res,int left,int right,int n,String current){
-        if(current.length() == n*2){
-            res.add(current);
+
+    private void dfs(int O, int C, String s) {
+        if (O == 0 && C == 0) {
+            res.add(s + ")");
             return;
         }
-        if(left<n){
-            generate(res,left+1,right,n,current+"(");
-        }
-        if(right<left){
-            generate(res,left,right+1,n,current+")");
-        }
+
+        if (O > 0)
+            dfs(O - 1, C, s + "(");
+
+        if (C >= O)
+            dfs(O, C - 1, s + ")");
     }
 }
