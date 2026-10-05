@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Shivansh1205/LeetCode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivansh1205/LeetCode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Shivansh1205/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Shivansh1205/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0748-shortest-completing-word](https://github.com/Shivansh1205/LeetCode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0756-pyramid-transition-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Shivansh1205/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0542-01-matrix](https://github.com/Shivansh1205/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0638-shopping-offers](https://github.com/Shivansh1205/LeetCode/tree/main/0638-shopping-offers/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Shivansh1205/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shivansh1205/LeetCode/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Shivansh1205/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Shivansh1205/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Shivansh1205/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Shivansh1205/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1078-remove-outermost-parentheses](https://github.com/Shivansh1205/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shivansh1205/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shivansh1205/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Shivansh1205/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Shivansh1205/LeetCode/tree/main/0561-array-partition/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Shivansh1205/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0768-partition-labels](https://github.com/Shivansh1205/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Shivansh1205/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shivansh1205/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -1117,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Shivansh1205/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shivansh1205/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivansh1205/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
