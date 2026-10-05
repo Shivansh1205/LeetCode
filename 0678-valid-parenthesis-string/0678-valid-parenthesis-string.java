@@ -1,23 +1,28 @@
 class Solution {
-public:
-    bool checkValidString(string s) {
-        int leftMin = 0, leftMax = 0;
+    public boolean checkValidString(String s) {
+        int low = 0;
+        int high = 0;
 
-        for (char c : s) {
-            if (c == '(') {
-                leftMin++;
-                leftMax++;
-            } else if (c == ')') {
-                leftMin--;
-                leftMax--;
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '(') {
+                low++;
+                high++;
+            } else if (s.charAt(i) == ')') {
+                if (low > 0) {
+                    low--;
+                }
+                high--;
             } else {
-                leftMin--;
-                leftMax++;
+                if (low > 0) {
+                    low--;
+                }
+                high++;
             }
-            if (leftMax < 0) return false;
-            if (leftMin < 0) leftMin = 0;
+
+            if (high < 0) {
+                return false;
+            }
         }
-        
-        return leftMin == 0;
+        return low == 0;
     }
-};
+}
