@@ -12,7 +12,6 @@ class Solution {
             gain[i] = perm(nums[i]) - nums[i];
         }
         Arrays.sort(gain);
-        Arrays.sort(gain);
 
 for (int i = n - 1; i >= Math.max(0, n - k); i--) {
     if (gain[i] <= 0) break;
