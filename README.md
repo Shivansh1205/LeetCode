@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/Shivansh1205/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Shivansh1205/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivansh1205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shivansh1205/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivansh1205/LeetCode/tree/master/0283-move-zeroes) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Shivansh1205/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivansh1205/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Shivansh1205/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Shivansh1205/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shivansh1205/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivansh1205/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -853,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shivansh1205/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Shivansh1205/LeetCode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0743-network-delay-time](https://github.com/Shivansh1205/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivansh1205/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -1165,4 +1169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Shivansh1205/LeetCode/tree/main/1025-divisor-game/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shivansh1205/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shivansh1205/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
