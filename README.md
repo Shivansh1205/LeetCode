@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shivansh1205/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Shivansh1205/LeetCode/tree/main/4021-minimum-operations-to-make-a-rotated-palindrome-i/) | Medium |
 | [4106-find-mismatched-segments-between-two-strings](https://github.com/Shivansh1205/LeetCode/tree/main/4106-find-mismatched-segments-between-two-strings/) | Medium |
+| [4108-minimum-cost-to-make-red-nodes-connected](https://github.com/Shivansh1205/LeetCode/tree/main/4108-minimum-cost-to-make-red-nodes-connected/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shivansh1205/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Shivansh1205/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Shivansh1205/LeetCode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
+| [4108-minimum-cost-to-make-red-nodes-connected](https://github.com/Shivansh1205/LeetCode/tree/main/4108-minimum-cost-to-make-red-nodes-connected/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Shivansh1205/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Shivansh1205/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2793-count-the-number-of-complete-components](https://github.com/Shivansh1205/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [4108-minimum-cost-to-make-red-nodes-connected](https://github.com/Shivansh1205/LeetCode/tree/main/4108-minimum-cost-to-make-red-nodes-connected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -938,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Shivansh1205/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Shivansh1205/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shivansh1205/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [4108-minimum-cost-to-make-red-nodes-connected](https://github.com/Shivansh1205/LeetCode/tree/main/4108-minimum-cost-to-make-red-nodes-connected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
